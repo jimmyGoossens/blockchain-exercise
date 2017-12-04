@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-exercise",
+  "version": "1.0.0",
+  "description": "un exercice sur la blockchain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyGoossens/blockchain-exercise.git"
+  },
+  "author": "Jimmy Goossens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmyGoossens/blockchain-exercise/issues"
+  },
+  "homepage": "https://github.com/jimmyGoossens/blockchain-exercise#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
